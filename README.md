@@ -3,7 +3,7 @@
 		├── Initial/ # Contains the initial raw data for developing and testing the ETL Pipeline.
 		├── Subsequent/ # Contains subsequent data for refining the ETL Pipeline and conducting thorough testing.
 		└── Production/ # Contains production data will be utilized in the live environment.
-	database/ 	# Database configuration and schemas 
+	database/ 	# Database schemas 
 	docs/ 		# Documentation files 
 	inputs/ 	# Input files for ETL Pipeline 
 	scripts/ 	# Supporting scripts and utilities.
