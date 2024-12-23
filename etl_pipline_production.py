@@ -3,7 +3,7 @@ import sys
 import os
 
 ### Specify the path where function files are stored
-wd = "D:/Brahim/Data Integration/Healthcare/Health Condition Registry"
+wd = "D:/Projects/Python/Health-Condition-Registry"
 # wd = os.getcwd()
 srcpath = os.path.join(wd,"scripts")
 
